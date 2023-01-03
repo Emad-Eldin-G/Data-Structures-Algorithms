@@ -1,4 +1,4 @@
-# Algorithms
+# DSA
 - Linear Search
 - Binary Search
 - Bubble Sort 
@@ -8,4 +8,3 @@
 - Linked List
 - Binary Tree
 - Graph
-- A* Finding
