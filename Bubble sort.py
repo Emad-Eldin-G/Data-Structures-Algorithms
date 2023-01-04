@@ -11,7 +11,8 @@ def bubble_sort(arr):
                 if j[z] > j[z+1]:
                     j[z], j[z+1] = j[z+1], j[z] 
     return arr
-            
+
+# Outputing original vs sorted    
 print(arr)
 print('\n')
 query = bubble_sort(arr)
