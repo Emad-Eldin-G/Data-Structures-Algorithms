@@ -16,4 +16,8 @@ def bubble_sort(arr):
 print(arr)
 print('\n')
 query = bubble_sort(arr)
-print(query)
+
+for i in query:
+    for j in i:
+        print(j, end=" | ")
+    print('\n')
