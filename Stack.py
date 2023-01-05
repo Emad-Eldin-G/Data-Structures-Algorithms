@@ -7,6 +7,7 @@ class Stack1():
     def __init__(self):
         self.data = []
         self.pointer = -1
+        # self.size = size (where a user will specify the size of his data)
 
     def push(self, item):
         if len(self.data) < 10:
