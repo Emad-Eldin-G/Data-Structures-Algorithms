@@ -8,3 +8,5 @@
 - Linked List
 - Binary Tree
 - Graph
+- Matrix
+- Hashmap
