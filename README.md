@@ -1,12 +1,12 @@
 # DSA
-- Linear Search
-- Binary Search
-- Bubble Sort 
-- Insertion Sort
-- Stack 
-- Queue 
-- Linked List
-- Binary Tree
-- Graph
-- Matrix
-- Hashmap
+- Linear Search ✅
+- Binary Search ✅
+- Bubble Sort ✅ 
+- Insertion Sort 💤
+- Stack ✅ 
+- Queue ✅ 
+- Linked List ✅
+- Binary Tree 💤
+- Graph 💤
+- Matrix 💤
+- Hashmap 💤
