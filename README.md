@@ -10,3 +10,5 @@
 - Graph 💤
 - Matrix 💤
 - Hashmap 💤
+- Djikstra's  💤
+- A* Finding  💤
