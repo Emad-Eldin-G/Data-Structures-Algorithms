@@ -6,5 +6,5 @@
 - [Stack](https://github.com/Emad-Eldin-G/Data-Structures-Algorithms/blob/main/Stack.py) ✅ 
 - [Queue](https://github.com/Emad-Eldin-G/Data-Structures-Algorithms/blob/main/Queue.py) ✅ 
 - [Linked List](https://github.com/Emad-Eldin-G/Data-Structures-Algorithms/blob/main/Linked%20List.py) ✅
-- [OOP](https://github.com/Emad-Eldin-G/Data-Structures-Algorithms/blob/main/Polymorphism%20-%20Inheritance%20-%20Encapsulation.py)
+- [Object Oriented Programming](https://github.com/Emad-Eldin-G/Data-Structures-Algorithms/blob/main/Polymorphism%20-%20Inheritance%20-%20Encapsulation.py) ✅
 
