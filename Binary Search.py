@@ -20,5 +20,5 @@ def BinarySearch(target, start, end, arr):
 if __name__ == '__main__':
     array = [x for x in range(20)]
     lookfor = int(input("Please input a number: "))
-    result = BinarySearch(lookfor, 0, len(array), array)
+    result = BinarySearch(lookfor, 0, len(array)-1, array)
     print(result)
